@@ -75,7 +75,7 @@ La estructura de los archivos es la siguiente:
 
 ## 📷 Galería
 
-  ![GIF](PARTICLE-IMG/img/IMG-PARTICLE.gif "GIF")
+  ![GIF](IMG-PARTICLE/img/IMG-PARTICLE.gif "GIF")
 
 
 ## 🌟 Crédito/Reconocimiento
